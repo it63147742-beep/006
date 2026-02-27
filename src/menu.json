@@ -6,7 +6,11 @@
     "price": 320,
     "weight": "350 г",
     "description": "Наваристый борщ со свёклой, капустой и говядиной. Подаётся со сметаной и пампушками.",
-    "photo": "https://picsum.photos/seed/borscht/400/300"
+    "photo": "https://picsum.photos/seed/borscht/400/300",
+    "calories": 210,
+    "proteins": 12,
+    "fats": 8,
+    "carbs": 24
   },
   {
     "id": 2,
@@ -15,7 +19,11 @@
     "price": 280,
     "weight": "300 г",
     "description": "Нежный крем-суп из запечённой тыквы со сливками и имбирём.",
-    "photo": "https://picsum.photos/seed/pumpkin/400/300"
+    "photo": "https://picsum.photos/seed/pumpkin/400/300",
+    "calories": 145,
+    "proteins": 4,
+    "fats": 9,
+    "carbs": 14
   },
   {
     "id": 3,
@@ -24,7 +32,11 @@
     "price": 750,
     "weight": "200 г",
     "description": "Стейк лосося на гриле с лимонным соусом и овощами гриль.",
-    "photo": "https://picsum.photos/seed/salmon/400/300"
+    "photo": "https://picsum.photos/seed/salmon/400/300",
+    "calories": 320,
+    "proteins": 34,
+    "fats": 18,
+    "carbs": 6
   },
   {
     "id": 4,
@@ -33,7 +45,11 @@
     "price": 420,
     "weight": "280 г",
     "description": "Классическая итальянская паста с беконом, яйцом и пармезаном.",
-    "photo": "https://picsum.photos/seed/pasta/400/300"
+    "photo": "https://picsum.photos/seed/pasta/400/300",
+    "calories": 480,
+    "proteins": 22,
+    "fats": 20,
+    "carbs": 54
   },
   {
     "id": 5,
@@ -42,7 +58,11 @@
     "price": 390,
     "weight": "250 г",
     "description": "Сочная куриная котлета с маслом и зеленью внутри, с картофельным пюре.",
-    "photo": "https://picsum.photos/seed/kyiv/400/300"
+    "photo": "https://picsum.photos/seed/kyiv/400/300",
+    "calories": 410,
+    "proteins": 28,
+    "fats": 22,
+    "carbs": 30
   },
   {
     "id": 6,
@@ -51,7 +71,11 @@
     "price": 310,
     "weight": "220 г",
     "description": "Свежие овощи, маслины, сыр фета и оливковое масло.",
-    "photo": "https://picsum.photos/seed/greek/400/300"
+    "photo": "https://picsum.photos/seed/greek/400/300",
+    "calories": 180,
+    "proteins": 6,
+    "fats": 14,
+    "carbs": 10
   },
   {
     "id": 7,
@@ -60,7 +84,11 @@
     "price": 360,
     "weight": "250 г",
     "description": "Хрустящий салат с куриным филе, сухариками и соусом цезарь.",
-    "photo": "https://picsum.photos/seed/caesar/400/300"
+    "photo": "https://picsum.photos/seed/caesar/400/300",
+    "calories": 290,
+    "proteins": 24,
+    "fats": 16,
+    "carbs": 14
   },
   {
     "id": 8,
@@ -69,7 +97,11 @@
     "price": 290,
     "weight": "150 г",
     "description": "Классический итальянский десерт с маскарпоне и кофейной пропиткой.",
-    "photo": "https://picsum.photos/seed/tiramisu/400/300"
+    "photo": "https://picsum.photos/seed/tiramisu/400/300",
+    "calories": 350,
+    "proteins": 7,
+    "fats": 20,
+    "carbs": 38
   },
   {
     "id": 9,
@@ -78,7 +110,11 @@
     "price": 270,
     "weight": "130 г",
     "description": "Нежный чизкейк на песочной основе с ягодным соусом.",
-    "photo": "https://picsum.photos/seed/cheesecake/400/300"
+    "photo": "https://picsum.photos/seed/cheesecake/400/300",
+    "calories": 310,
+    "proteins": 6,
+    "fats": 18,
+    "carbs": 34
   },
   {
     "id": 10,
@@ -87,7 +123,11 @@
     "price": 180,
     "weight": "300 мл",
     "description": "Эспрессо с нежной молочной пенкой. Можно с сиропом по вкусу.",
-    "photo": "https://picsum.photos/seed/cappuccino/400/300"
+    "photo": "https://picsum.photos/seed/cappuccino/400/300",
+    "calories": 90,
+    "proteins": 4,
+    "fats": 4,
+    "carbs": 10
   },
   {
     "id": 11,
@@ -96,7 +136,11 @@
     "price": 220,
     "weight": "250 мл",
     "description": "Сок из свежих апельсинов без сахара и консервантов.",
-    "photo": "https://picsum.photos/seed/orangejuice/400/300"
+    "photo": "https://picsum.photos/seed/orangejuice/400/300",
+    "calories": 110,
+    "proteins": 2,
+    "fats": 0,
+    "carbs": 26
   },
   {
     "id": 12,
@@ -105,6 +149,10 @@
     "price": 240,
     "weight": "180 г",
     "description": "Поджаренный хлеб с томатами, базиликом и оливковым маслом.",
-    "photo": "https://picsum.photos/seed/bruschetta/400/300"
+    "photo": "https://picsum.photos/seed/bruschetta/400/300",
+    "calories": 220,
+    "proteins": 6,
+    "fats": 8,
+    "carbs": 32
   }
 ]
