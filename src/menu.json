@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Борщ украинский",
+    "category": "Супы",
+    "price": 320,
+    "weight": "350 г",
+    "description": "Наваристый борщ со свёклой, капустой и говядиной. Подаётся со сметаной и пампушками.",
+    "photo": "https://picsum.photos/seed/borscht/400/300"
+  },
+  {
+    "id": 2,
+    "name": "Крем-суп из тыквы",
+    "category": "Супы",
+    "price": 280,
+    "weight": "300 г",
+    "description": "Нежный крем-суп из запечённой тыквы со сливками и имбирём.",
+    "photo": "https://picsum.photos/seed/pumpkin/400/300"
+  },
+  {
+    "id": 3,
+    "name": "Стейк из лосося",
+    "category": "Горячее",
+    "price": 750,
+    "weight": "200 г",
+    "description": "Стейк лосося на гриле с лимонным соусом и овощами гриль.",
+    "photo": "https://picsum.photos/seed/salmon/400/300"
+  },
+  {
+    "id": 4,
+    "name": "Паста карбонара",
+    "category": "Горячее",
+    "price": 420,
+    "weight": "280 г",
+    "description": "Классическая итальянская паста с беконом, яйцом и пармезаном.",
+    "photo": "https://picsum.photos/seed/pasta/400/300"
+  },
+  {
+    "id": 5,
+    "name": "Котлета по-киевски",
+    "category": "Горячее",
+    "price": 390,
+    "weight": "250 г",
+    "description": "Сочная куриная котлета с маслом и зеленью внутри, с картофельным пюре.",
+    "photo": "https://picsum.photos/seed/kyiv/400/300"
+  },
+  {
+    "id": 6,
+    "name": "Греческий салат",
+    "category": "Салаты",
+    "price": 310,
+    "weight": "220 г",
+    "description": "Свежие овощи, маслины, сыр фета и оливковое масло.",
+    "photo": "https://picsum.photos/seed/greek/400/300"
+  },
+  {
+    "id": 7,
+    "name": "Цезарь с курицей",
+    "category": "Салаты",
+    "price": 360,
+    "weight": "250 г",
+    "description": "Хрустящий салат с куриным филе, сухариками и соусом цезарь.",
+    "photo": "https://picsum.photos/seed/caesar/400/300"
+  },
+  {
+    "id": 8,
+    "name": "Тирамису",
+    "category": "Десерты",
+    "price": 290,
+    "weight": "150 г",
+    "description": "Классический итальянский десерт с маскарпоне и кофейной пропиткой.",
+    "photo": "https://picsum.photos/seed/tiramisu/400/300"
+  },
+  {
+    "id": 9,
+    "name": "Чизкейк Нью-Йорк",
+    "category": "Десерты",
+    "price": 270,
+    "weight": "130 г",
+    "description": "Нежный чизкейк на песочной основе с ягодным соусом.",
+    "photo": "https://picsum.photos/seed/cheesecake/400/300"
+  },
+  {
+    "id": 10,
+    "name": "Капучино",
+    "category": "Напитки",
+    "price": 180,
+    "weight": "300 мл",
+    "description": "Эспрессо с нежной молочной пенкой. Можно с сиропом по вкусу.",
+    "photo": "https://picsum.photos/seed/cappuccino/400/300"
+  },
+  {
+    "id": 11,
+    "name": "Свежевыжатый апельсиновый сок",
+    "category": "Напитки",
+    "price": 220,
+    "weight": "250 мл",
+    "description": "Сок из свежих апельсинов без сахара и консервантов.",
+    "photo": "https://picsum.photos/seed/orangejuice/400/300"
+  },
+  {
+    "id": 12,
+    "name": "Брускетта с томатами",
+    "category": "Закуски",
+    "price": 240,
+    "weight": "180 г",
+    "description": "Поджаренный хлеб с томатами, базиликом и оливковым маслом.",
+    "photo": "https://picsum.photos/seed/bruschetta/400/300"
+  }
+]
