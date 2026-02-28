@@ -1,9 +1,0 @@
-/* Минимальный глобальный сброс — всё остальное в App.css */
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  min-width: 320px;
-}
